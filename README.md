@@ -1,3 +1,3 @@
 # hello-world
-Intro Activity - Lab 1
-I am a masters student at SDSU studying cell and molecular biology
+**this is a test for bio 668**
+> my favorite animal is a jellyfish
